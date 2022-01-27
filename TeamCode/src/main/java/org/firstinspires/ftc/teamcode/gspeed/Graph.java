@@ -17,6 +17,8 @@ public class Graph {
       new int[]{1, 1, 1, 1, 1, 1}
     };
 
+    // Create a grid and set it equal to the grid variable
+    // TODO
 
     // Accessor for the grid
     public int[][] getGrid() {
