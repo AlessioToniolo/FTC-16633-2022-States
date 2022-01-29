@@ -12,9 +12,8 @@ import org.firstinspires.ftc.teamcode.utility.Fields;
 import org.openftc.easyopencv.OpenCvCamera;
 import org.openftc.easyopencv.OpenCvCameraFactory;
 import org.openftc.easyopencv.OpenCvCameraRotation;
-@Autonomous
-@Config
-public class AutoBlueLeft extends LinearOpMode {
+
+public class AutoRedRight extends LinearOpMode{
     //Fields
     BaseRobot robot = new BaseRobot();
     private final ElapsedTime runtime = new ElapsedTime();
